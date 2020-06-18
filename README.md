@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This Project uses A* Search algorithm to search for the shortest path between two locations on the map.
 
 <img src="map.png" width="600" height="450" />
 
